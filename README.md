@@ -1,5 +1,5 @@
 # Sentiment Analysis Using Hugging Face and Gradio
-**## Project Overview**
+## Project Overview
 
    This project demonstrates the integration of Hugging Face's **text-to-text** models with **Gradio**, a tool
 for building interactive user interfaces, to perform **sentiment analysis**. The task involves classifying
