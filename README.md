@@ -1,2 +1,7 @@
-# Assignment-1-Integrating-Text-to-Text-AI-Pipelines-with-Gradio
-This project illustrate the implementation of  a sentiment-analysis pipeline using Hugging-Face models along with Gradio and other libraries.
+# Sentiment Analysis Using Hugging Face and Gradio
+**Project Overview**
+
+This project demonstrates the integration of Hugging Face's "text-to-text" models with "Gradio", a tool
+for building interactive user interfaces, to perform "sentiment analysis". The task involves classifying
+text data as "positive", "neutral", or "negative sentiments". Two pre-trained models are utilized: one for
+"English" and another for "Arabic" sentiment analysis.
