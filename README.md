@@ -31,3 +31,52 @@ text data as **positive**, **neutral**, or **negative sentiments**. Two pre-trai
   1. **Arabic Model**: "CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment", Designed and trained for sentiment-analysis of Arabic text.
   2. **English Model**: "distilbert-base-uncased-finetuned-sst-2-english", Designed and trained for sentiment-analysis of Arabic text.
 - The models take a sentence or list of sentences as an input and returns its label (positive,neutral,negative) along with a **confidence score**.
+
+
+## **How to Run the Code**
+
+### **1. Clone the Repository**
+
+- git clone https://github.com/your-repo-url
+
+- This command downloads all the project files to your local machine.
+  giving you access to everything needed to run the project locally
+
+### **2. Install the Required Libraries**
+
+This project uses the following libraries:
+- Gradio
+- Transformers -> Pipeline (Hugging Face)
+- Pandas
+- Matplotlib
+
+### **3. Running the Notebooks**
+
+- Open the notebooks in **Jupyter Notebook**, **Google Colab**, or any other environment(IDE) that supports `.ipynb` files.
+
+### **4. Launching the Gradio Interface**
+
+- Run the **Full Implementation Notebook**, to start the Gradio interface.
+
+- Upload a text file and select the desired language (English or Arabic). The model will analyze the sentences and display the results in a formatted table and a bar plot.
+
+---
+
+## **Expected Output**
+
+1. **DataFrame**: Displays the analyzed sentences along with their sentiment labels (positive, neutral, negative) and confidence scores for each analyzed sentence.
+
+2. **Bar Plot**: Displays a visual representation of the sentiment distribution.
+
+---
+
+## **Hugging Face Project Page**
+
+- You can also view the whole project on Hugging-Face space
+- https://huggingface.co/spaces/Abduuu/Sentiment-Analysis
+
+## **Video Walkthrough**
+
+A short video walkthrough is included in the repository, demonstrating how to use the **Gradio interface** for sentiment analysis.
+
+- **URL**
