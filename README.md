@@ -37,7 +37,7 @@ text data as **positive**, **neutral**, or **negative sentiments**. Two pre-trai
 
 ### **1. Clone the Repository**
 
-- git clone [https://github.com/your-repo-url](https://github.com/Abdulrahman078/Assignment-1-Integrating-Text-to-Text-AI-Pipelines-with-Gradio.git)
+- git clone https://github.com/Abdulrahman078/Assignment-1-Integrating-Text-to-Text-AI-Pipelines-with-Gradio.git
 
 - This command downloads all the project files to your local machine.
   giving you access to everything needed to run the project locally
