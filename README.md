@@ -61,7 +61,7 @@ This project uses the following libraries:
 
 - Upload a text file and select the desired language (English or Arabic). The model will analyze the sentences and display the results in a formatted table and a bar plot.
 
-- **Note**: The uploaded file must have a "".txt"" extension, where each line has one sentence.
+- **Note**: The uploaded file must have a ".txt" extension, where each line has one sentence.
 
 ---
 
