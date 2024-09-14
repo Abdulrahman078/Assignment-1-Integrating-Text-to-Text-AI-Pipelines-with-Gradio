@@ -74,10 +74,10 @@ This project uses the following libraries:
 ## **Hugging Face Project Page**
 
 - You can also view the whole project on Hugging-Face space
-- [**Click here**]([https://youtu.be/45O1SULy6Bc](https://huggingface.co/spaces/Abduuu/Sentiment-Analysis))
+- [**Click here**](https://huggingface.co/spaces/Abduuu/Sentiment-Analysis)
 
 ## **Video Walkthrough**
 
 A short video walkthrough is included in the repository, demonstrating how to use the **Gradio interface** for sentiment analysis.
 
-- [**Click here.**](https://youtu.be/45O1SULy6Bc)
+- [**Click here**](https://youtu.be/45O1SULy6Bc)
