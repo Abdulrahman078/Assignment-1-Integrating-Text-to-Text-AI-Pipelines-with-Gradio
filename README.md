@@ -80,4 +80,4 @@ This project uses the following libraries:
 
 A short video walkthrough is included in the repository, demonstrating how to use the **Gradio interface** for sentiment analysis.
 
-- **URL**
+- [**URL**](https://youtu.be/45O1SULy6Bc)
