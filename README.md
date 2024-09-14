@@ -74,7 +74,7 @@ This project uses the following libraries:
 ## **Hugging Face Project Page**
 
 - You can also view the whole project on Hugging-Face space
-- https://huggingface.co/spaces/Abduuu/Sentiment-Analysis
+- [**Click here**]([https://youtu.be/45O1SULy6Bc](https://huggingface.co/spaces/Abduuu/Sentiment-Analysis))
 
 ## **Video Walkthrough**
 
